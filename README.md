@@ -26,7 +26,6 @@ What Drives Me
 
 Projects
 
-
 Let's Connect
 - LinkedIn : https://www.linkedin.com/in/nikhil-s-a-aeonnc
 - MailID : nikhil.2207032@srec.ac.in (Academic) || sansv.nikhil@gmail.com (Personal)
