@@ -1,13 +1,3 @@
-# Nikhil_SA_GitHub_README.md
-
-<!-- ═══════════════════════════════════════════════════════════
-     PASTE EVERYTHING BELOW INTO YOUR GitHub profile README.md
-     File must be at: github.com/AeonNC/AeonNC (repo name = username)
-     ═══════════════════════════════════════════════════════════ -->
-
----
-
-<!-- COPY FROM HERE ↓ -->
 
 <div align="center">
 
@@ -220,5 +210,3 @@ $ nikhil --open-to-work true
 ![Profile Views](https://komarev.com/ghpvc/?username=AeonNC&color=1D6FA4&style=flat-square&label=profile+views)
 
 </div>
-
-<!-- COPY TO HERE ↑ -->
